@@ -1,3 +1,7 @@
+
+
+# <<< Do'konda sizga kerak bo'lagan narsalar bor yo'qligini aniqlovchi dastur >>>
+
 # mevalar=["olma", "shaftoli", "nok", "anjir", "banan", "ananas"]
 # s_o_mevalar=[]
 # y_mevalar=[]
@@ -49,6 +53,8 @@
 #         print(f"{son} soni {i} ga qoldiqli bo'linadi")
 
 # //////////////////////////////////////////////////////////////////
+
+# <<< Istalgan butun sonni siz hohlagan soningizga bolganingizga qoldiqli yoki qoldiqsiz bo'linishini aniqlab beruvchi dastur >>>
 
 q_li=[]
 q_siz=[]
