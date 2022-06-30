@@ -50,23 +50,23 @@
 
 # //////////////////////////////////////////////////////////////////
 
-# q_li=[]
-# q_siz=[]
-# son=int(input(f" \nIstalgan son kiriting:"))
-# for i in range(2,11):
-#     if son%i==0:
-#         q_siz.append(i)
+q_li=[]
+q_siz=[]
+son=int(input(f" \nIstalgan son kiriting:"))
+for i in range(2,11):
+    if son%i==0:
+        q_siz.append(i)
 
-#     elif son%i!=0 :
-#         q_li.append(i)
+    elif son%i!=0 :
+        q_li.append(i)
 
-# print(f"\n{son} soni quyidagilarga qoldiqsiz bo'linadi: ")
-# for g in q_siz:
-#     print(g)
+print(f"\n{son} soni quyidagilarga qoldiqsiz bo'linadi: ")
+for g in q_siz:
+    print(g)
 
-# print(f"\n{son} soni quyidagilarga qoldiqli bo'linadi: ")
-# for h in q_li:
-#     print(h)
+print(f"\n{son} soni quyidagilarga qoldiqli bo'linadi: ")
+for h in q_li:
+    print(h)
 
 
 
