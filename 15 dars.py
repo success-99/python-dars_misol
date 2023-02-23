@@ -21,7 +21,7 @@ for t in b_poytaxtlar:
        # print(f" Bor {t}")
     else:
         yoq_p.append(t.title())
-        # print(f"Yo'q {t}")
+        
 print("Bileti mavjud bo'lgan Poytaxtlar: ")
 for i in bor_p:
     print(i)
