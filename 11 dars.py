@@ -52,7 +52,7 @@
 #     elif son%i!=0 :
 #         print(f"{son} soni {i} ga qoldiqli bo'linadi")
 
-# //////////////////////////////////////////////////////////////////
+# ///////////////////////////////////////////////////////////////
 
 # <<< Istalgan butun sonni siz hohlagan soningizga bolganingizga qoldiqli yoki qoldiqsiz bo'linishini aniqlab beruvchi dastur >>>
 
