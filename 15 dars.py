@@ -7,7 +7,7 @@ poytaxtlar={
 "saudiya arabistoni":"ar-riyod"
 }
 
-#  "< bilet bor yoqligini aniqlovchi datur >"
+#  "< bilet bor yoqligini aniqlovchi datur >".
 
 b_poytaxtlar=[]
 bor_p=[]
