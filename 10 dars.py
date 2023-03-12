@@ -60,7 +60,7 @@
 # elif t>=0:
 #     print(f"{t} ning ildizi >> {t**(1/2)}")
 
-# //////////////////////////////
+# ///////////////////////////
 
 # yosh=int(input(f"\nYoshingizni kiriting: "))
 # if yosh<4 or yosh>60:
