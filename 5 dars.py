@@ -1,4 +1,4 @@
-# ism=input("Ismingiz: ")
+# ism=input("Ismingiz: ").
 # familiya=input("Familiyangiz: ")
 # kasbi=input("Kasbingiz: ")
 # ish_joyi=input("Ishjoyingiz: ")
