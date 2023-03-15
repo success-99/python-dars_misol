@@ -6,4 +6,4 @@
 # print("Shaxs haqida ma'lumot")
 
 # malumot=f"{familiya.title()} {ism.title()} {ish_joyi}da {ish_boshlagan_yili}dan buyon {kasbi} !!!"
-# print(malumot)
+# print(malumot).
