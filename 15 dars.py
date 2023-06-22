@@ -9,8 +9,6 @@ poytaxtlar={
 
 #  "< bilet bor yoqligini aniqlovchi datur >".
 
-#gv
-
 
 b_poytaxtlar=[]
 bor_p=[]
